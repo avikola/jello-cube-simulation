@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (jello.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  createWorld.cpp
+c:\users\avishkar kolahalu\google drive\usc\1. animation & simulation - csci 520\assignments\assignment 1\starter-csci520-assign1\createworld.cpp(62): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\avishkar kolahalu\google drive\usc\1. animation & simulation - csci 520\assignments\assignment 1\starter-csci520-assign1\createworld.cpp(134): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
