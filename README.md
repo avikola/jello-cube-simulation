@@ -1,33 +1,25 @@
-	  
-	    Simulating a Jello Cube.
 
-===============================================
-	       Avishkar Kolahalu
-===============================================
+# Simulating a Jello Cube
 
 Features:
 
-• Implemented the Acceleration Functionality.
-• Implemented Hooke's Law, Damping, & Collision Detection.
-	• Jello Cube bounces off the wall as expected.
-• Implemented the Force Field.
-
-Extra Credit:
-
-• Renders the Inclined Plane from file, to fit within the bounding box.
-• Implemented collision detection with the inclined plane.
-	• Jello cube collides and reacts appropriately when in contact with the plane.
+â€¢ Implemented Acceleration Functionality.
+â€¢ Implemented Hooke's Law, Damping, & Collision Detection.
+	â€¢ Jello Cube bounces off the wall as expected.
+â€¢ Implemented the Force Field.
+â€¢ Renders the Inclined Plane from file, to fit within the bounding box.
+â€¢ Implemented collision detection with the inclined plane.
+	â€¢ Jello cube collides and reacts appropriately when in contact with the plane.
 
 Notes:
 
-• Animation JPEGs can be found in the 'screenshots' folder.
-
-• Changed Colour of Background.
-
-• Commented Line to enable continuous screenshot mode.
-
-• Command Arguement Format:
+â€¢ Command Argument Format:
 
 	world/[name]
 
 	e.g. world/jello.w
+	
+	
+## Result
+
+![jello simulation demo](result/jellosimulationdemo.gif)
