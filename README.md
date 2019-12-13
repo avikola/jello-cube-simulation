@@ -1,8 +1,8 @@
 	  
-     Assignment 1 - Simulating a Jello Cube.
+	    Simulating a Jello Cube.
 
 ===============================================
-	Avishkar Kolahalu - 6138-4283-68
+	       Avishkar Kolahalu
 ===============================================
 
 Features:
