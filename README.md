@@ -58,3 +58,7 @@ Different display modes to visualize the different types of springs :
 * Bend Springs
 
 Implementation of the 3  lead to a more stable, realistic simulation.
+
+
+
+*base world code by Jernej Barbic*
