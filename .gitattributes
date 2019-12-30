@@ -1,2 +1,4 @@
-freeglut-3.0.0-win32/* linguist-vendored=false
-world/* linguist-vendored=false
+freeglut-3.0.0-win32/* linguist-detectable=false
+world/* linguist-detectable=false
+
+*.h linguist-detectable=false
