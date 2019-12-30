@@ -59,6 +59,7 @@ Different display modes to visualize the different types of springs :
 
 Implementation of the 3  lead to a more stable, realistic simulation.
 
+<br/>
+<br/>
 
-
-*base world code by Jernej Barbic*
+*( base world code by Jernej Barbic )*
